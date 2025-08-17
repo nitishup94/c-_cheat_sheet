@@ -4,10 +4,9 @@
 Welcome to the **C++ Quick Reference** 🚀  
 This repo contains **syntax, examples, and STL functions** you need for coding interviews, DSA, and competitive programming.  
 
-
 ## 📑 Table of Contents
 
-1. [Basic Input/Output](#1-🖥-basic-inputoutput)  
+1. [Basic Input/Output](#1-basic-inputoutput)  
 2. [Data Types](#2-data-types)  
     - [Fundamental / Basic Types](#21-fundamental--basic-data-types)  
     - [Derived Types](#22-derived-types)  
@@ -51,7 +50,7 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
     - [Pointer Arithmetic](#62-pointer-arithmetic)  
     - [Pointer to Pointer](#63-pointer-to-pointer)  
     - [Null Pointer & Dangling Pointer](#64-null-pointer--dangling-pointer)  
-7. [OOP in C++](#7-🏛-oop-in-c)  
+7. [OOP in C++](#7-oop-in-c)  
     - [Class & Object](#71-class--object)  
     - [Constructors & Destructors](#72-constructors--destructors)  
     - [Inheritance](#73-inheritance)  
