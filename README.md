@@ -8,7 +8,7 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
 ## 📑 Table of Contents
 
 1. [Basic Input/Output](#1-🖥-basic-inputoutput)  
-2. [Data Types](#2-🔢-data-types)  
+2. [Data Types](#2-data-types)  
     - [Fundamental / Basic Types](#21-fundamental--basic-data-types)  
     - [Derived Types](#22-derived-types)  
       - [Array](#221-array)  
@@ -24,7 +24,7 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
 3. [Control Statements](#3-control-statements)  
     - [If-Else](#31-if-else)  
     - [Switch-Case](#32-switch-case)  
-    - [Loops](#33-🔄-loops)  
+    - [Loops](#33-loops)  
       - [For Loop](#1-for-loop)  
       - [While Loop](#2-while-loop)  
       - [Do-While Loop](#3-do-while-loop)  
