@@ -24,9 +24,9 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
     - [If-Else](#31-if-else)  
     - [Switch-Case](#32-switch-case)  
     - [Loops](#33-loops)  
-      - [For Loop](#1-for-loop)  
-      - [While Loop](#2-while-loop)  
-      - [Do-While Loop](#3-do-while-loop)  
+      - [For Loop](#331-for-loop)  
+      - [While Loop](#332-while-loop)  
+      - [Do-While Loop](#333-do-while-loop)  
     - [Break & Continue](#34-break--continue)  
     - [Goto Statement](#35-goto-statement)  
 4. [Functions](#4-functions)  
@@ -63,8 +63,7 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
       - [Run-time (Virtual Functions)](#742-run-time-polymorphism-virtual-functions)  
     - [Encapsulation & Abstraction](#75-encapsulation--abstraction)  
     - [Friend Functions & Classes](#76-friend-functions--classes)  
-    - [Static Members](#77-static-members)  
-
+    - [Static Members](#77-static-members)
 ---
 
 ## 1. 🖥 Basic Input/Output
