@@ -66,7 +66,7 @@ This repo contains **syntax, examples, and STL functions** you need for coding i
     - [Static Members](#77-static-members)
 ---
 
-## 1. 🖥 Basic Input/Output
+## 1. Basic Input/Output
 ```cpp
 #include <iostream>
 using namespace std;
@@ -79,7 +79,8 @@ int main() {
 }
 ```
 ---
-## 2. 🔢 Data Types
+
+## 2. Data Types
 
 ### 2.1 Fundamental / Basic Data Types
 C++ provides several **built-in fundamental types** to store basic data values.
