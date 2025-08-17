@@ -520,7 +520,7 @@ int main() {
 
 2. Q: What is fallthrough in a switch-case statement and how can it be managed?  
    A: Fallthrough occurs when the break statement is omitted, causing execution to continue to subsequent cases. Proper use of break or explicit case handling is needed to manage this behavior.
-## 3.3 🔄 Loops
+## 3.3 Loops
 
 Loops allow you to execute a block of code repeatedly based on a condition. They are invaluable for iterating over data or executing code until a specific state is achieved.
 
@@ -1668,7 +1668,7 @@ A: Avoid dangling pointers by ensuring that pointers reference valid memory; for
 
 
 
-## 7. 🏛 OOP in C++
+## 7. OOP in C++
 
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data and methods. C++ supports OOP principles such as encapsulation, inheritance, polymorphism, and abstraction.
 
