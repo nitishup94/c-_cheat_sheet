@@ -34,4 +34,42 @@ int main() {
     cin >> x;
     cout << "You entered: " << x << endl;
 }
+```
+---
+## 🔢 Data Types  
 
+**Primitive Data Types in C++**  
+- `int` → 4 bytes (usually, platform-dependent)  
+- `float` → 4 bytes (single precision)  
+- `double` → 8 bytes (double precision)  
+- `char` → 1 byte (single character)  
+- `bool` → 1 byte (true/false)  
+- `void` → no value  
+
+**Derived Types**  
+- `array`, `pointer`, `reference`, `function`  
+
+**User-defined Types**  
+- `struct`, `class`, `enum`, `typedef`, `using`  
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    int a = 10;
+    float b = 5.6;
+    double c = 9.87654321;
+    char d = 'A';
+    string s = "C++";
+    bool flag = true;
+
+    cout << "int: " << a << endl;
+    cout << "float: " << b << endl;
+    cout << "double: " << c << endl;
+    cout << "char: " << d << endl;
+    cout << "string: " << s << endl;
+    cout << "bool: " << flag << endl;
+}
+```
